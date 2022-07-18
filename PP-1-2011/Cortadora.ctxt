@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cortadora
+comment1.params=lim\ costoXTransformacion
+comment1.target=Cortadora(int,\ int)
+comment2.params=patron
+comment2.target=java.lang.String\ cortar(int)
+comment3.params=
+comment3.target=int\ costoOperacion()
+comment4.params=patron
+comment4.target=boolean\ simetrico(int)
+comment5.params=patron
+comment5.target=int\ cantTransformaciones(int)
+comment6.params=num
+comment6.target=int\ invertirNumero(int)
+numComments=7
