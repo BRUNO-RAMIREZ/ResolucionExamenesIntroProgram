@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment1.params=costo
+comment1.target=Ejercicio3(int)
+comment2.params=cantEntradas
+comment2.target=double\ calcularPago(int)
+numComments=3
