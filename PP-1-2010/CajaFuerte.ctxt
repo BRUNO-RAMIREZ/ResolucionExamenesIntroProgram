@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CajaFuerte
+comment1.params=clave
+comment1.target=CajaFuerte(int)
+comment2.params=claveTentativa
+comment2.target=java.lang.String\ damePista(int)
+numComments=3
