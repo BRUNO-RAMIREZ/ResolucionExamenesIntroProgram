@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=
+comment1.target=Juego()
+comment2.params=incremento
+comment2.target=java.lang.String\ jugar(int)
+comment3.params=
+comment3.target=int\ generarJugada()
+numComments=4
