@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cargador
+comment1.params=
+comment1.target=Cargador()
+comment2.params=cajita
+comment2.target=java.lang.String\ agregarCaja(Caja)
+comment3.params=masita
+comment3.target=java.lang.String\ ponerMasita(Masa)
+numComments=4
