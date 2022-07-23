@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CiudadanoNumerolandia
+comment1.params=valor
+comment1.target=CiudadanoNumerolandia(int)
+comment2.params=nivelEjercicio
+comment2.target=void\ hacerEjercicio(int)
+comment3.params=numero
+comment3.target=int\ menorPeso(int)
+comment4.params=
+comment4.target=int\ getMenorPeso()
+comment5.params=numero
+comment5.target=void\ aumentoORebajo(int)
+comment6.params=
+comment6.target=int\ getCantVecesAumentoPeso()
+comment7.params=
+comment7.target=int\ getCantVecesRebajoPeso()
+comment8.params=numero
+comment8.target=int\ getPesoCiudadano(int)
+comment9.params=
+comment9.target=int\ getPesoCiudadano()
+numComments=10
