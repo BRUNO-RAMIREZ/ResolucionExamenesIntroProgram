@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=a\ b\ c
+comment1.target=void\ ejercicio1(int,\ int,\ int)
+comment2.params=data
+comment2.target=Tupla\ ejercicio2(int)
+comment3.params=
+comment3.target=void\ ejercicio3()
+numComments=4
