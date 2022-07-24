@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Administracion
+comment1.params=
+comment1.target=Administracion()
+comment2.params=carroBasura
+comment2.target=void\ registrarDatosCarro(CarroBasura)
+comment3.params=
+comment3.target=int\ basuraEnCirculacion()
+numComments=4

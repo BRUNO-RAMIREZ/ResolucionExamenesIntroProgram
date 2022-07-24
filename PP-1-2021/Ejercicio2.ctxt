@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment1.params=num1\ num2
+comment1.target=int\ misterio(int,\ int)
+comment2.params=num1\ num2
+comment2.target=int\ magico(int,\ int)
+numComments=3

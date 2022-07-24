@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rectangulo
+comment1.params=base
+comment1.target=void\ setBase(double)
+comment2.params=
+comment2.target=Color\ getColor()
+numComments=3

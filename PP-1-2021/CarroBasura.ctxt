@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CarroBasura
+comment1.params=capacidad
+comment1.target=CarroBasura(int)
+comment2.params=cantidad
+comment2.target=java.lang.String\ cargarBasura(int)
+comment3.params=estaAbierto
+comment3.target=java.lang.String\ entregarBasuraBotadero(boolean)
+comment4.params=
+comment4.target=int\ getCantBasuraEntregadaBotadero()
+comment5.params=
+comment5.target=boolean\ entregoBasuraBotadero()
+comment6.params=
+comment6.target=int\ getTotalBasuraRecojida()
+numComments=7
