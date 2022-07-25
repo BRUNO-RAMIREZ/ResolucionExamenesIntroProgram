@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Censo
+comment1.params=totalPoblacion
+comment1.target=Censo(int)
+comment2.params=estadoFinanciero
+comment2.target=java.lang.String\ censar(int)
+comment3.params=
+comment3.target=java.lang.String\ reportar()
+comment4.params=numero
+comment4.target=java.lang.String\ rellenarAsteriscos(int)
+comment5.params=numAbundantes\ numDeficientes
+comment5.target=java.lang.String\ rellenarEspaciosBlancos(int,\ int)
+numComments=6
