@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Interceptador
+comment1.params=patron\ mensajeModificador
+comment1.target=Interceptador(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getPatron()
+comment3.params=
+comment3.target=java.util.ArrayList\ mensajeModificador()
+comment4.params=patron
+comment4.target=void\ setPatron(java.util.ArrayList)
+comment5.params=mensajeModificador
+comment5.target=void\ setMensajeModificador(java.util.ArrayList)
+comment6.params=conjuntoMensajes
+comment6.target=java.util.ArrayList\ interceptarMensajes(java.util.ArrayList)
+comment7.params=posibleCandidato
+comment7.target=boolean\ cumplePatron(java.util.ArrayList)
+comment8.params=mensaje
+comment8.target=boolean\ noCumplePatron(java.util.ArrayList)
+comment9.params=conjuntoMensajes
+comment9.target=java.util.ArrayList\ cambiarMensaje(java.util.ArrayList)
+numComments=10
