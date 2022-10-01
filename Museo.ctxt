@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Museo
+comment1.params=descripcion\ tiempoEstimado\ costoEntrada
+comment1.target=Museo(java.lang.String,\ float,\ float)
+numComments=2

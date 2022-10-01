@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Paseo
+comment1.params=nombre
+comment1.target=Paseo(java.lang.String)
+comment2.params=
+comment2.target=float\ duracion()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=actractivoTuristico
+comment4.target=void\ agregar(AtractivoTuristico)
+comment5.params=cantidadPersonas
+comment5.target=float\ costo(int)
+comment6.params=cantidadPersonas
+comment6.target=float\ costoEntradas(int)
+numComments=7

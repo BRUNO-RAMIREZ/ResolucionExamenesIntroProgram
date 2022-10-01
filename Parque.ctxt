@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Parque
+comment1.params=descripcion\ tiempoEstimado\ disponiblePara
+comment1.target=Parque(java.lang.String,\ float,\ java.lang.String)
+comment2.params=descripcion\ tiempoEstimado\ disponiblePara\ costoEntrada
+comment2.target=Parque(java.lang.String,\ float,\ java.lang.String,\ float)
+numComments=3

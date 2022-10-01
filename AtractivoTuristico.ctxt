@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AtractivoTuristico
+comment1.params=descripcion\ tiempoEstimado
+comment1.target=AtractivoTuristico(java.lang.String,\ float)
+comment2.params=descripcion\ tiempoEstimado\ costoEntrada
+comment2.target=AtractivoTuristico(java.lang.String,\ float,\ float)
+comment3.params=caracteristica
+comment3.target=void\ agregarCaracteristicaSitio(java.lang.String)
+comment4.params=
+comment4.target=float\ getTiempoEstimado()
+comment5.params=
+comment5.target=float\ getCostoEntrada()
+numComments=6
